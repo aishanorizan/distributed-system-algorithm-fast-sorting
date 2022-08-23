@@ -1,5 +1,5 @@
 # distributed-system-algorithm-fast-sorting
-Application of Distributed Systems In Speeding Up Sorting Programs — An Algorithm.
+Speeding Up Heavy Sorting Tasks using Distributed Services and Multithreading Concept 
 
 We all want processing to be quick, dont we? Even when it takes 1 million job executions!
 
